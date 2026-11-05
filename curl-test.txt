@@ -1,0 +1,4 @@
+curl -k -v -X POST https://192.168.212.245:7443/rest/v1/auth \
+-H "Content-Type: application/json" \
+-H "X-Auth-Username: monitor" \
+-H "X-Auth-Password: Speckled-$urv3y-Ret0ld"
